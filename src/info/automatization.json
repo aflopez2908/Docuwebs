@@ -1,0 +1,28 @@
+{
+  "macroCategoria": "Automatizacion bots",
+  "subcategorias": [
+    {
+      "subcategoria": "Automatizacion bots",
+      "links": [
+        {
+          "nombre": "make",
+          "url": "https://www.make.com/en",
+          "descripcion": "Plataforma para automatizar flujos de trabajo y procesos entre aplicaciones.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://www.make.com/en"
+        },
+        {
+          "nombre": "n8n",
+          "url": "https://n8n.io/",
+          "descripcion": "Herramienta de automatización de código abierto para crear flujos de trabajo personalizados.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://n8n.io/"
+        },
+        {
+          "nombre": "Zapier",
+          "url": "https://zapier.com/",
+          "descripcion": "Servicio que conecta aplicaciones y automatiza tareas repetitivas sin necesidad de código.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://zapier.com/"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "macroCategoria": "Herramientas",
+  "subcategorias": [
+    {
+      "subcategoria": "Herramientas generales",
+      "links": [
+        {
+          "nombre": "content core",
+          "url": "https://contentcore.xyz/",
+          "descripcion": "Herramienta para gestionar y centralizar contenido digital.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://contentcore.xyz/"
+        },
+        {
+          "nombre": "rxresume.me",
+          "url": "https://rxresu.me/",
+          "descripcion": "Plataforma para crear currículos visuales y modernos.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://rxresu.me/"
+        },
+        {
+          "nombre": "ui.glas",
+          "url": "https://ui.glass/",
+          "descripcion": "Herramienta enfocada en el diseño y visualización de interfaces de usuario.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://ui.glass/"
+        },
+        {
+          "nombre": "responsive viewer",
+          "url": "https://chromewebstore.google.com/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb",
+          "descripcion": "Extensión para visualizar y probar diseños web responsivos en Chrome.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://chromewebstore.google.com/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb"
+        },
+        {
+          "nombre": "Figma",
+          "url": "https://www.figma.com/",
+          "descripcion": "Herramienta colaborativa de diseño y prototipado para interfaces digitales.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://www.figma.com/"
+        }
+      ]
+    },
+    {
+      "subcategoria": "Informacion",
+      "links": [
+        {
+          "nombre": "daily dev",
+          "url": "http://daily.dev/es",
+          "descripcion": "Portal con noticias, artículos y recursos para desarrolladores.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=http://daily.dev/es"
+        },
+        {
+          "nombre": "encuesta global developer nation",
+          "url": "https://www-developereconomics-net.translate.goog/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc&_x_tr_hist=true",
+          "descripcion": "Encuesta global que analiza tendencias y desafíos en el desarrollo tecnológico.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://www-developereconomics-net.translate.goog/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc&_x_tr_hist=true"
+        },
+        {
+          "nombre": "Stack Overflow Trends",
+          "url": "https://insights.stackoverflow.com/trends",
+          "descripcion": "Herramienta para visualizar tendencias en preguntas y tecnologías en Stack Overflow.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://insights.stackoverflow.com/trends"
+        }
+      ]
+    },
+    {
+      "subcategoria": "Magic loops",
+      "links": [
+        {
+          "nombre": "magic loops",
+          "url": "https://magicloops.dev/dashboard",
+          "descripcion": "Herramienta para crear loops y animaciones interactivas de diseño.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://magicloops.dev/dashboard"
+        },
+        {
+          "nombre": "LottieFiles",
+          "url": "https://lottiefiles.com/",
+          "descripcion": "Recursos y herramientas para animaciones en formato Lottie.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://lottiefiles.com/"
+        }
+      ]
+    },
+    {
+      "subcategoria": "Analisis web",
+      "links": [
+        {
+          "nombre": "vis bug",
+          "url": "https://chromewebstore.google.com/detail/visbug/cdockenadnadldjbbgcallicgledbeoc",
+          "descripcion": "Herramienta para inspeccionar y analizar visualmente sitios web.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://chromewebstore.google.com/detail/visbug/cdockenadnadldjbbgcallicgledbeoc"
+        },
+        {
+          "nombre": "gt metrix",
+          "url": "https://gtmetrix.com/",
+          "descripcion": "Servicio de análisis de rendimiento y optimización de sitios web.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://gtmetrix.com/"
+        },
+        {
+          "nombre": "screaming .frog",
+          "url": "https://www.screamingfrog.co.uk/seo-spider/",
+          "descripcion": "Software de auditoría SEO para analizar sitios web en profundidad.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://www.screamingfrog.co.uk/seo-spider/"
+        },
+        {
+          "nombre": "google search cnsole",
+          "url": "https://search.google.com/search-console/about",
+          "descripcion": "Herramienta oficial de Google para monitorear el rendimiento SEO de un sitio.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://search.google.com/search-console/about"
+        },
+        {
+          "nombre": "npx unlighthous",
+          "url": "https://next.unlighthouse.dev/",
+          "descripcion": "Herramienta para auditar rendimiento, accesibilidad y SEO en sitios web.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://next.unlighthouse.dev/"
+        },
+        {
+          "nombre": "PageSpeed Insights",
+          "url": "https://developers.google.com/speed/pagespeed/insights/",
+          "descripcion": "Servicio de Google que analiza la velocidad de carga y rendimiento de una web.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://developers.google.com/speed/pagespeed/insights/"
+        }
+      ]
+    },
+    {
+      "subcategoria": "Certificaciones",
+      "links": [
+        {
+          "nombre": "credly",
+          "url": "https://info.credly.com/",
+          "descripcion": "Plataforma para gestionar y obtener certificaciones digitales reconocidas.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://info.credly.com/"
+        },
+        {
+          "nombre": "roadmap",
+          "url": "https://roadmap.sh/",
+          "descripcion": "Guía interactiva y recursos para el desarrollo profesional y certificaciones.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://roadmap.sh/"
+        },
+        {
+          "nombre": "LinkedIn Learning",
+          "url": "https://www.linkedin.com/learning/",
+          "descripcion": "Plataforma de cursos en línea con certificaciones profesionales.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://www.linkedin.com/learning/"
+        }
+      ]
+    },
+    {
+      "subcategoria": "Creacion de video",
+      "links": [
+        {
+          "nombre": "veo 2",
+          "url": "https://deepmind.google/technologies/veo/veo-2/",
+          "descripcion": "Tecnología de DeepMind para la creación avanzada de videos.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://deepmind.google/technologies/veo/veo-2/"
+        },
+        {
+          "nombre": "potcastle",
+          "url": "https://podcastle.ai/?wpsrc=Google%20AdWords&wpcid=21678328540&wpscid=168686843684&wpcrid=724222317312&wpkwid=kwd-333156308568&wpkwn=podcastle&wpkmatch=e&wpsnetn=g&utm_term=podcastle&utm_campaign=Brand_Core_Exact%20(Rest%20of%20World)&utm_source=adwords&utm_medium=ppc&hsa_acc=5897832329&hsa_cam=21678328540&hsa_grp=168686843684&hsa_ad=724222317312&hsa_src=g&hsa_tgt=kwd-333156308568&hsa_kw=podcastle&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=Cj0KCQjwm7q-BhDRARIsACD6-fXqKwzQXJsCNckoQTEIr_2NHTR61HPijXuJv18dKnj_-Qg-6Xy6ejEaAnGZEALw_wcB",
+          "descripcion": "Herramienta online para crear y editar podcasts y videos.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://podcastle.ai/?wpsrc=Google%20AdWords&wpcid=21678328540&wpscid=168686843684&wpcrid=724222317312&wpkwid=kwd-333156308568&wpkwn=podcastle&wpkmatch=e&wpsnetn=g&utm_term=podcastle&utm_campaign=Brand_Core_Exact%20(Rest%20of%20World)&utm_source=adwords&utm_medium=ppc&hsa_acc=5897832329&hsa_cam=21678328540&hsa_grp=168686843684&hsa_ad=724222317312&hsa_src=g&hsa_tgt=kwd-333156308568&hsa_kw=podcastle&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=Cj0KCQjwm7q-BhDRARIsACD6-fXqKwzQXJsCNckoQTEIr_2NHTR61HPijXuJv18dKnj_-Qg-6Xy6ejEaAnGZEALw_wcB"
+        },
+        {
+          "nombre": "even labs",
+          "url": "https://elevenlabs.io/",
+          "descripcion": "Plataforma para generación de contenido audiovisual con inteligencia artificial.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://elevenlabs.io/"
+        },
+        {
+          "nombre": "suno",
+          "url": "https://suno.com/home",
+          "descripcion": "Herramienta de IA para la creación y edición de contenido sonoro.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://suno.com/home"
+        },
+        {
+          "nombre": "Adobe Premiere Rush",
+          "url": "https://www.adobe.com/products/premiere-rush.html",
+          "descripcion": "Aplicación de Adobe para edición de video rápida y sencilla, ideal para creadores.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://www.adobe.com/products/premiere-rush.html"
+        }
+      ]
+    }
+  ]
+}

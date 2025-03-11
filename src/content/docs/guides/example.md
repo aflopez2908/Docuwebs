@@ -3,9 +3,21 @@ title: Example Guide
 description: A guide in my new Starlight docs site.
 ---
 
-Guides lead a user through a specific task they want to accomplish, often with a sequence of steps.
-Writing a good guide requires thinking about what your users are trying to do.
+## Guía con Tarjetas
 
-## Further reading
+Aquí puedes ver algunas tarjetas dentro de la documentación:
 
-- Read [about how-to guides](https://diataxis.fr/how-to-guides/) in the Diátaxis framework
+```astro
+import Card from "../../../components/Card.astro";
+
+<Card 
+  image="https://via.placeholder.com/300"
+  description="Esta es una tarjeta de ejemplo con una imagen y un enlace."
+  link="https://ejemplo.com"
+/>
+
+<Card 
+  image="https://via.placeholder.com/300"
+  description="Otra tarjeta con contenido diferente."
+  link="https://otraweb.com"
+/>

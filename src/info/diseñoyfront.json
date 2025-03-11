@@ -1,0 +1,281 @@
+{
+  "macroCategoria": "DISEÑO Y FRONT",
+  "subcategorias": [
+    {
+      "subcategoria": "fuentes e iconos",
+      "links": [
+        {
+          "nombre": "uifont",
+          "url": "https://www.uifonts.app/",
+          "descripcion": "Plataforma para buscar fuentes e iconos ideales para interfaces de usuario.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://www.uifonts.app/"
+        },
+        {
+          "nombre": "animated iconos",
+          "url": "https://animatedicons.co/",
+          "descripcion": "Colección de iconos animados para dar vida a tus proyectos web.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://animatedicons.co/"
+        },
+        {
+          "nombre": "google fonts",
+          "url": "https://fonts.google.com/",
+          "descripcion": "Biblioteca gratuita de fuentes de código abierto de Google.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://fonts.google.com/"
+        },
+        {
+          "nombre": "awesome fonts",
+          "url": "https://fontawesome.com/",
+          "descripcion": "Conjunto de iconos escalables y fuentes para diseño web.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://fontawesome.com/"
+        }
+      ]
+    },
+    {
+      "subcategoria": "ayudas desarrollo",
+      "links": [
+        {
+          "nombre": "css grid generator",
+          "url": "https://cssgridgenerator.io/",
+          "descripcion": "Herramienta visual para crear layouts utilizando CSS Grid.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://cssgridgenerator.io/"
+        },
+        {
+          "nombre": "Flexbox Froggy",
+          "url": "https://flexboxfroggy.com/",
+          "descripcion": "Juego interactivo para aprender y dominar Flexbox en CSS.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://flexboxfroggy.com/"
+        }
+      ]
+    },
+    {
+      "subcategoria": "Inspiracion - front",
+      "links": [
+        {
+          "nombre": "react bits",
+          "url": "https://www.reactbits.dev/",
+          "descripcion": "Recursos y fragmentos de código para proyectos en React.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://www.reactbits.dev/"
+        },
+        {
+          "nombre": "prime",
+          "url": "https://www.primefaces.org/",
+          "descripcion": "Componentes y temas modernos para interfaces de usuario.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://www.primefaces.org/"
+        },
+        {
+          "nombre": "htmls rev",
+          "url": "https://htmlrev.com/",
+          "descripcion": "Revista online que recopila tendencias en diseño y desarrollo HTML.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://htmlrev.com/"
+        },
+        {
+          "nombre": "statichhunt",
+          "url": "https://statichunt.com/",
+          "descripcion": "Galería de inspiración con ejemplos de sitios web estáticos.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://statichunt.com/"
+        },
+        {
+          "nombre": "collect ui",
+          "url": "https://collectui.com/",
+          "descripcion": "Colección de diseños de interfaces y elementos UI inspiradores.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://collectui.com/"
+        },
+        {
+          "nombre": "muz.li",
+          "url": "https://muz.li/",
+          "descripcion": "Plataforma que muestra inspiración visual para diseñadores.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://muz.li/"
+        },
+        {
+          "nombre": "dribble",
+          "url": "https://dribbble.com/",
+          "descripcion": "Comunidad de diseñadores donde se comparten proyectos creativos.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://dribbble.com/"
+        },
+        {
+          "nombre": "behance",
+          "url": "https://www.behance.net/",
+          "descripcion": "Plataforma para exhibir portafolios creativos y proyectos de diseño.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://www.behance.net/"
+        },
+        {
+          "nombre": "siteinspire",
+          "url": "https://www.siteinspire.com/",
+          "descripcion": "Galería de diseños web destacados y modernos.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://www.siteinspire.com/"
+        },
+        {
+          "nombre": "call to impiration",
+          "url": "https://calltoinspiration.com/",
+          "descripcion": "Recursos visuales que estimulan la creatividad en diseño.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://calltoinspiration.com/"
+        },
+        {
+          "nombre": "tool folio",
+          "url": "https://toolfolio.io/",
+          "descripcion": "Herramienta para crear portafolios online de forma sencilla.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://toolfolio.io/"
+        },
+        {
+          "nombre": "curated. design",
+          "url": "https://www.curated.design/",
+          "descripcion": "Selección de diseños inspiradores y de tendencia.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://www.curated.design/"
+        },
+        {
+          "nombre": "bento grids",
+          "url": "https://bentogrids.com/",
+          "descripcion": "Muestra de diseños web organizados en formato grid.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://bentogrids.com/"
+        },
+        {
+          "nombre": "indie graund",
+          "url": "https://indieground.net/",
+          "descripcion": "Recursos y ejemplos de diseño independiente y creativo.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://indieground.net/"
+        },
+        {
+          "nombre": "road map front end proyects",
+          "url": "https://roadmap.sh/frontend/projects",
+          "descripcion": "Guía y listado de proyectos y herramientas para el front-end.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://roadmap.sh/frontend/projects"
+        },
+        {
+          "nombre": "free css",
+          "url": "https://www.free-css.com/",
+          "descripcion": "Repositorio de plantillas y diseños CSS gratuitos.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://www.free-css.com/"
+        },
+        {
+          "nombre": "pix cap",
+          "url": "https://pixcap.com/",
+          "descripcion": "Herramienta para capturar y visualizar animaciones de diseño.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://pixcap.com/"
+        },
+        {
+          "nombre": "footer design",
+          "url": "https://www.footer.design/",
+          "descripcion": "Inspiración para diseños creativos de pies de página en sitios web.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://www.footer.design/"
+        },
+        {
+          "nombre": "spline",
+          "url": "https://spline.design/",
+          "descripcion": "Software de diseño 3D para crear interfaces interactivas.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://spline.design/"
+        },
+        {
+          "nombre": "dark.desgin",
+          "url": "https://www.dark.design/",
+          "descripcion": "Recursos y ejemplos de diseños web con temática oscura.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://www.dark.design/"
+        },
+        {
+          "nombre": "mobbin",
+          "url": "https://mobbin.com/",
+          "descripcion": "Colección de pantallas y diseños de aplicaciones móviles.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://mobbin.com/"
+        },
+        {
+          "nombre": "Awwwards",
+          "url": "https://www.awwwards.com/",
+          "descripcion": "Premios y reconocimientos a la excelencia en diseño web.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://www.awwwards.com/"
+        }
+      ]
+    },
+    {
+      "subcategoria": "Inspiracion - back",
+      "links": [
+        {
+          "nombre": "road map backend proyects",
+          "url": "https://roadmap.sh/backend/projects",
+          "descripcion": "Guía y listado de proyectos y herramientas para el desarrollo backend.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://roadmap.sh/backend/projects"
+        },
+        {
+          "nombre": "GitHub Trending",
+          "url": "https://github.com/trending",
+          "descripcion": "Proyectos populares de código abierto que pueden inspirar soluciones backend.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://github.com/trending"
+        }
+      ]
+    },
+    {
+      "subcategoria": "Animaciones",
+      "links": [
+        {
+          "nombre": "gsap",
+          "url": "https://gsap.com/",
+          "descripcion": "Librería de animación de alto rendimiento para la web.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://gsap.com/"
+        },
+        {
+          "nombre": "AOS",
+          "url": "https://michalsnik.github.io/aos/",
+          "descripcion": "Biblioteca para implementar animaciones al hacer scroll.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://michalsnik.github.io/aos/"
+        },
+        {
+          "nombre": "anime.js",
+          "url": "https://animejs.com/",
+          "descripcion": "Librería ligera para crear animaciones en JavaScript.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://animejs.com/"
+        },
+        {
+          "nombre": "ScrollMagic",
+          "url": "https://scrollmagic.io/",
+          "descripcion": "Herramienta para crear efectos interactivos basados en el scroll.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://scrollmagic.io/"
+        }
+      ]
+    },
+    {
+      "subcategoria": "Componentes",
+      "links": [
+        {
+          "nombre": "acertenity ui",
+          "url": "https://ui.aceternity.com/",
+          "descripcion": "Colección de componentes de interfaz de usuario para proyectos web.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://ui.aceternity.com/"
+        },
+        {
+          "nombre": "bento grids",
+          "url": "https://bentogrids.com/",
+          "descripcion": "Herramienta para organizar y visualizar componentes en formato grid.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://bentogrids.com/"
+        },
+        {
+          "nombre": "magic ui",
+          "url": "https://magicui.design/",
+          "descripcion": "Componentes modernos y estilizados para interfaces digitales.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://magicui.design/"
+        },
+        {
+          "nombre": "origin ui",
+          "url": "https://originui.com/",
+          "descripcion": "Sistema de componentes reutilizables para diseño web.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://originui.com/"
+        },
+        {
+          "nombre": "shad cn",
+          "url": "https://ui.shadcn.com/",
+          "descripcion": "Framework de UI con componentes predefinidos y personalizables.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://ui.shadcn.com/"
+        },
+        {
+          "nombre": "hero ui",
+          "url": "https://www.heroui.com/docs/guide/introduction",
+          "descripcion": "Guía y componentes enfocados en secciones hero para web.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://www.heroui.com/docs/guide/introduction"
+        },
+        {
+          "nombre": "Material UI",
+          "url": "https://mui.com/",
+          "descripcion": "Biblioteca de componentes React basada en el diseño material de Google.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://mui.com/"
+        }
+      ]
+    }
+  ]
+}

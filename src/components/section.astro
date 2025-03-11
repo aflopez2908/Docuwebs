@@ -1,0 +1,55 @@
+---
+// MacroCategory.astro
+import StarlightPage from "@astrojs/starlight/components/StarlightPage.astro";
+import Card from "../components/card.astro";
+import "../styles/global.css";
+
+// Define las interfaces de tus datos
+interface Link {
+  nombre: string;
+  url: string;
+  descripcion: string;
+  imagen: string;
+}
+
+interface Subcategoria {
+  subcategoria: string;
+  links: Link[];
+}
+
+interface MacroCategoryData {
+  macroCategoria: string;
+  subcategorias: Subcategoria[];
+}
+
+interface Props {
+  data: MacroCategoryData;
+}
+
+// Tipamos las props
+const { data } = Astro.props as Props;
+const macroCategoria = data.macroCategoria;
+const subcategorias = data.subcategorias;
+---
+
+<StarlightPage frontmatter={{ title: macroCategoria }}>
+  <h1>{macroCategoria}</h1>
+  {subcategorias.map((subcat) => (
+    <>
+      <h2 id={subcat.subcategoria.toLowerCase().replace(/\s+/g, '-')}>
+        {subcat.subcategoria}
+      </h2>
+      <hr />
+      <div class="container flex justify-between flex-wrap">
+        {subcat.links.map((link: Link) => (
+          <Card
+            nombre={link.nombre}
+            image={link.imagen}
+            description={link.descripcion}
+            link={link.url}
+          />
+        ))}
+      </div>
+    </>
+  ))}
+</StarlightPage>

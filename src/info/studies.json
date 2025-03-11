@@ -1,0 +1,133 @@
+{
+  "macroCategoria": "informacion sobre estudios",
+  "subcategorias": [
+    {
+      "subcategoria": "estudios de maestria",
+      "links": [
+        {
+          "nombre": "becas santander",
+          "url": "https://app.santanderopenacademy.com/es/program/search?",
+          "descripcion": "Plataforma que recopila becas y programas de maestría ofrecidos por Santander.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://app.santanderopenacademy.com/es/program/search?"
+        },
+        {
+          "nombre": "becas carolina",
+          "url": "https://www.fundacioncarolina.es/",
+          "descripcion": "Fundación que ofrece becas para estudios de maestría e intercambio internacional.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://www.fundacioncarolina.es/"
+        },
+        {
+          "nombre": "Chevening Scholarships",
+          "url": "https://www.chevening.org/",
+          "descripcion": "Programa global de becas para estudios de maestría en el Reino Unido.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://www.chevening.org/"
+        }
+      ]
+    },
+    {
+      "subcategoria": "Cursos",
+      "links": [
+        {
+          "nombre": "Pildoras informaticas",
+          "url": "https://www.pildorasinformaticas.es/",
+          "descripcion": "Recursos y cursos gratuitos para aprender informática y programación.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://www.pildorasinformaticas.es/"
+        },
+        {
+          "nombre": "exersicim",
+          "url": "https://exercism.org/",
+          "descripcion": "Plataforma interactiva para practicar ejercicios de programación en varios lenguajes.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://exercism.org/"
+        },
+        {
+          "nombre": "testing .dev",
+          "url": "https://web.dev/learn/testing",
+          "descripcion": "Recursos y tutoriales para aprender testing en el desarrollo web.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://web.dev/learn/testing"
+        },
+        {
+          "nombre": "web deve",
+          "url": "https://web.dev/?hl=es-419",
+          "descripcion": "Guía completa de recursos y mejores prácticas para desarrollo web.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://web.dev/?hl=es-419"
+        },
+        {
+          "nombre": "freecode camp",
+          "url": "https://www.freecodecamp.org/learn/",
+          "descripcion": "Plataforma gratuita para aprender a programar a través de proyectos prácticos.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://www.freecodecamp.org/learn/"
+        },
+        {
+          "nombre": "kangle",
+          "url": "https://www.kaggle.com/",
+          "descripcion": "Comunidad y recursos para análisis de datos y competencias en ciencia de datos.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://www.kaggle.com/"
+        },
+        {
+          "nombre": "python institute",
+          "url": "https://pythoninstitute.org/",
+          "descripcion": "Organización que ofrece certificaciones y cursos oficiales de Python.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://pythoninstitute.org/"
+        },
+        {
+          "nombre": "js institute",
+          "url": "https://openedg.org/js-institute",
+          "descripcion": "Cursos y certificaciones especializadas en JavaScript y tecnologías web.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://openedg.org/js-institute"
+        },
+        {
+          "nombre": "englih for it",
+          "url": "https://openedg.org/english-for-it",
+          "descripcion": "Recursos para mejorar el inglés técnico enfocado en el sector tecnológico.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://openedg.org/english-for-it"
+        },
+        {
+          "nombre": "Coursera",
+          "url": "https://www.coursera.org/",
+          "descripcion": "Plataforma de cursos en línea ofrecidos por universidades y empresas líderes.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://www.coursera.org/"
+        },
+        {
+          "nombre": "edX",
+          "url": "https://www.edx.org/",
+          "descripcion": "Plataforma de cursos online de instituciones reconocidas a nivel mundial.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://www.edx.org/"
+        }
+      ]
+    },
+    {
+      "subcategoria": "documentaciones",
+      "links": [
+        {
+          "nombre": "cheatsheets .zip",
+          "url": "https://cheatsheets.zip/index.html",
+          "descripcion": "Repositorio de cheatsheets útiles para desarrollo y programación.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://cheatsheets.zip/index.html"
+        },
+        {
+          "nombre": "DevDocs",
+          "url": "https://devdocs.io/",
+          "descripcion": "Documentación unificada de múltiples lenguajes y frameworks para desarrolladores.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://devdocs.io/"
+        }
+      ]
+    },
+    {
+      "subcategoria": "libros",
+      "links": [
+        {
+          "nombre": "free programing books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "descripcion": "Repositorio colaborativo con libros gratuitos sobre programación y desarrollo.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://github.com/EbookFoundation/free-programming-books"
+        },
+        {
+          "nombre": "O'Reilly Online Learning",
+          "url": "https://www.oreilly.com/online-learning/",
+          "descripcion": "Plataforma de libros, videos y cursos en tecnología y negocios.",
+          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://www.oreilly.com/online-learning/"
+        }
+      ]
+    }
+  ]
+}

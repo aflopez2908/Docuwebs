@@ -1,0 +1,275 @@
+
+
+
+DISEÑO Y FRONT
+
+    fuentes e iconos
+        uifont
+        https://www.uifonts.app/
+
+        animated iconos
+        https://animatedicons.co/
+
+        google fonts
+        https://fonts.google.com/
+
+        awesome fonts 
+        https://fontawesome.com/
+
+    ayudas desarrollo
+        css grid generator
+        https://cssgridgenerator.io/
+
+    Inspiracion
+
+        front
+
+            react bits 
+            https://www.reactbits.dev/
+
+            prime 
+            https://www.primefaces.org/
+
+            htmls rev
+            https://htmlrev.com/
+
+            statichhunt
+            https://statichunt.com/
+
+            collect ui 
+            https://collectui.com/
+
+            muz.li
+            https://muz.li/
+
+            dribble 
+            https://dribbble.com/
+
+            behance 
+            https://www.behance.net/
+
+            siteinspire
+            https://www.siteinspire.com/
+
+            call to impiration
+            https://calltoinspiration.com/
+
+            tool folio 
+            https://toolfolio.io/
+
+            curated. design
+            https://www.curated.design/
+
+            bento grids 
+            https://bentogrids.com/
+
+            indie graund
+            https://indieground.net/
+
+            road map front end proyects
+
+            https://roadmap.sh/frontend/projects
+
+            free css
+            https://www.free-css.com/
+
+            pix cap 
+            https://pixcap.com/
+
+            footer design 
+            https://www.footer.design/
+
+            spline
+            https://spline.design/
+
+            dark.desgin 
+            https://www.dark.design/
+
+             mobbin
+             https://mobbin.com/
+
+        back
+            road map backend proyects 
+            https://roadmap.sh/backend/projects
+
+    
+    Animaciones 
+
+        gsap
+        https://gsap.com/
+
+        AOS
+        https://michalsnik.github.io/aos/
+
+        anime.js
+        https://animejs.com/
+
+
+    Componentes
+
+        acertenity ui
+
+        https://ui.aceternity.com/
+
+        bento grids
+
+        magic ui 
+        https://magicui.design/
+        
+        origin ui
+        https://originui.com/
+
+        shad cn 
+        https://ui.shadcn.com/
+
+        hero ui
+        https://www.heroui.com/docs/guide/introduction
+
+        
+
+
+
+
+
+APIS
+
+    replicate.com
+    https://replicate.com/
+
+    public APIS
+    https://publicapis.dev/
+
+    unplash APIS
+    https://unsplash.com/developers
+
+
+
+Ayudas low code
+
+    1. pixieset
+    https://pixieset.com/
+
+    2. 
+
+
+Automatizacion bots 
+
+    make
+    https://www.make.com/en
+
+    n8n
+    https://n8n.io/
+
+informacion sobre estudios
+    estudios de maestria
+
+        becas santander 
+        https://app.santanderopenacademy.com/es/program/search?
+
+        becas carolina
+        https://www.fundacioncarolina.es/
+
+    Cursos
+
+        Pildoras informaticas
+        https://www.pildorasinformaticas.es/
+
+        exersicim
+
+        https://exercism.org/
+
+        testing .dev 
+        https://web.dev/learn/testing
+
+        web deve    
+        https://web.dev/?hl=es-419
+
+        freecode camp 
+        https://www.freecodecamp.org/learn/
+
+        kangle
+        https://www.kaggle.com/
+
+        python institute
+        https://pythoninstitute.org/
+
+        js institute 
+        https://openedg.org/js-institute
+
+        englih for it 
+        https://openedg.org/english-for-it
+
+    documentaciones 
+
+        cheatsheets .zip
+
+        https://cheatsheets.zip/index.html
+
+    libros
+        free programing books 
+        https://github.com/EbookFoundation/free-programming-books
+
+
+Herramientas 
+
+    content core 
+    https://contentcore.xyz/
+
+    rxresume.me 
+        https://rxresu.me/
+
+    ui.glas
+        https://ui.glass/
+
+    responsive viewer 
+        https://chromewebstore.google.com/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb
+
+    informacion
+
+        daily dev
+        http://daily.dev/es
+
+        encuesta global developer nation
+        https://www-developereconomics-net.translate.goog/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc&_x_tr_hist=true
+
+    magic loops 
+    https://magicloops.dev/dashboard
+
+    analisis web
+
+        vis bug 
+        https://chromewebstore.google.com/detail/visbug/cdockenadnadldjbbgcallicgledbeoc
+
+        gt metrix 
+        https://gtmetrix.com/
+
+        screaming .frog
+        https://www.screamingfrog.co.uk/seo-spider/
+
+        google search cnsole 
+        https://search.google.com/search-console/about
+
+        npx unlighthous
+        https://next.unlighthouse.dev/
+
+    certificaciones 
+        credly
+        https://info.credly.com/
+
+        roadmap
+        https://roadmap.sh/
+
+    creacion de video 
+     veo 2
+     https://deepmind.google/technologies/veo/veo-2/
+
+     potcastle 
+     https://podcastle.ai/?wpsrc=Google%20AdWords&wpcid=21678328540&wpscid=168686843684&wpcrid=724222317312&wpkwid=kwd-333156308568&wpkwn=podcastle&wpkmatch=e&wpsnetn=g&utm_term=podcastle&utm_campaign=Brand_Core_Exact%20(Rest%20of%20World)&utm_source=adwords&utm_medium=ppc&hsa_acc=5897832329&hsa_cam=21678328540&hsa_grp=168686843684&hsa_ad=724222317312&hsa_src=g&hsa_tgt=kwd-333156308568&hsa_kw=podcastle&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=Cj0KCQjwm7q-BhDRARIsACD6-fXqKwzQXJsCNckoQTEIr_2NHTR61HPijXuJv18dKnj_-Qg-6Xy6ejEaAnGZEALw_wcB
+
+     even labs
+
+     https://elevenlabs.io/
+
+
+     suno 
+     https://suno.com/home
