@@ -4,6 +4,7 @@ import starlight from '@astrojs/starlight';
 
 import tailwindcss from '@tailwindcss/vite';
 
+
 // https://astro.build/config
 export default defineConfig({
   integrations: [
@@ -15,7 +16,8 @@ export default defineConfig({
                   label: 'Cambios',
                   items: [
                       // Each item here is one entry in the navigation menu.
-                      { label: 'Example Guide', slug: 'guides/example' }
+                      { label: 'Example Guide', slug: 'guides/example' },
+                      { label: 'Estructura', slug: 'guides/estructura' }
                   ],
               },
                 {

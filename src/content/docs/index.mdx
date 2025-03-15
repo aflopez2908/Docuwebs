@@ -1,32 +1,43 @@
 ---
-title: BIenvenido a Docu
-description: Centro de paginas que funcionan como herramientas para desarrolladores.
+title: Bienvenido a DocuWeb
+description: Encuentra herramientas esenciales para el desarrollo de software en un solo lugar.
 template: splash
 hero:
-  tagline: La informacón en un solo lugar!
+  tagline: "Encuentra las mejores herramientas para desarrolladores en un solo lugar."
   image:
     file: ../../assets/docu.png
   actions:
-    - text: Centro de paginas
-      link: /guides/example/
+    - text: Explorar recursos
+      link: guides/example
       icon: right-arrow
 ---
 
 import { Card, CardGrid } from '@astrojs/starlight/components';
 
-## Next steps
+## ¿Qué es DocuWeb?
+
+**DocuWeb** es una biblioteca de enlaces cuidadosamente seleccionados para desarrolladores de software. Nuestro objetivo es proporcionar una plataforma centralizada donde puedas encontrar herramientas, documentación y recursos útiles para mejorar tu flujo de trabajo y aprendizaje.
+
+### Características:
+
+- 🔎 **Explora herramientas** por categorías como frontend, backend, bases de datos, APIs, diseño, entre otras.
+- 🏷️ **Filtra y organiza** los recursos según tus necesidades.
+- 📌 **Guarda tus favoritos** para acceder a ellos rápidamente.
+- 🔄 **Actualización constante** con nuevas herramientas y tecnologías.
+
+## Explora y personaliza
 
 <CardGrid stagger>
-	<Card title="Update content" icon="pencil">
-		Edit `src/content/docs/index.mdx` to see this page change.
+	<Card title="Explora los recursos" icon="search">
+		Accede a una lista curada de herramientas y documentación esencial para desarrolladores.
 	</Card>
-	<Card title="Add new content" icon="add-document">
-		Add Markdown or MDX files to `src/content/docs` to create new pages.
+	<Card title="Filtra según tus necesidades" icon="filter">
+		Utiliza filtros avanzados para encontrar exactamente lo que necesitas.
 	</Card>
-	<Card title="Configure your site" icon="setting">
-		Edit your `sidebar` and other config in `astro.config.mjs`.
+	<Card title="Configura tu experiencia" icon="setting">
+		Personaliza tu búsqueda y guarda tus enlaces favoritos.
 	</Card>
-	<Card title="Read the docs" icon="open-book">
-		Learn more in [the Starlight Docs](https://starlight.astro.build/).
+	<Card title="Aprende más" icon="open-book">
+		Consulta [la documentación de Starlight](https://starlight.astro.build/) para más detalles sobre esta plataforma.
 	</Card>
 </CardGrid>
