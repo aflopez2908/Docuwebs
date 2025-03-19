@@ -4,7 +4,7 @@ import StarlightPage from "@astrojs/starlight/components/StarlightPage.astro";
 import Card from "../components/card.astro";
 import "../styles/global.css";
 
-// Define las interfaces de tus datos
+
 interface Link {
   nombre: string;
   url: string;
@@ -32,15 +32,14 @@ const macroCategoria = data.macroCategoria;
 const subcategorias = data.subcategorias;
 ---
 
-<StarlightPage frontmatter={{ title: macroCategoria }}>
-  <h1>{macroCategoria}</h1>
+<StarlightPage frontmatter={{ title: macroCategoria, tableOfContents: false }}>
   {subcategorias.map((subcat) => (
     <>
       <h2 id={subcat.subcategoria.toLowerCase().replace(/\s+/g, '-')}>
         {subcat.subcategoria}
       </h2>
       <hr />
-      <div class="container flex justify-between flex-wrap">
+      <div class="container  justify-between grid grid-cols-3 gap-6">
         {subcat.links.map((link: Link) => (
           <Card
             nombre={link.nombre}

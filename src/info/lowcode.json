@@ -8,19 +8,19 @@
           "nombre": "pixieset",
           "url": "https://pixieset.com/",
           "descripcion": "Plataforma low code para crear galerías y sitios web enfocados en fotografía.",
-          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://pixieset.com/"
+          "imagen": "/screenshots/pixieset_com_.webp"
         },
         {
           "nombre": "Bubble",
           "url": "https://bubble.io/",
           "descripcion": "Herramienta sin código para construir aplicaciones web de forma visual.",
-          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://bubble.io/"
+          "imagen": "/screenshots/bubble_io_.webp"
         },
         {
           "nombre": "Webflow",
           "url": "https://webflow.com/",
           "descripcion": "Plataforma visual para diseñar, construir y lanzar sitios web sin escribir código.",
-          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://webflow.com/"
+          "imagen": "/screenshots/webflow_com_.webp"
         }
       ]
     }

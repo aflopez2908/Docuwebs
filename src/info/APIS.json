@@ -8,31 +8,31 @@
           "nombre": "replicate.com",
           "url": "https://replicate.com/",
           "descripcion": "Plataforma para ejecutar y compartir modelos de machine learning en la nube.",
-          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://replicate.com/"
+          "imagen": "/screenshots/replicate_com_.webp"
         },
         {
           "nombre": "public APIS",
           "url": "https://publicapis.dev/",
           "descripcion": "Directorio de APIs públicas útiles para desarrolladores e integraciones.",
-          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://publicapis.dev/"
+          "imagen": "/screenshots/publicapis_dev_.webp"
         },
         {
           "nombre": "unplash APIS",
           "url": "https://unsplash.com/developers",
           "descripcion": "API para acceder a la amplia colección de imágenes gratuitas de Unsplash.",
-          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://unsplash.com/developers"
+          "imagen": "/screenshots/unsplash_com_developers.webp"
         },
         {
           "nombre": "RapidAPI",
           "url": "https://rapidapi.com/",
           "descripcion": "Marketplace que reúne una gran variedad de APIs en un solo lugar.",
-          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://rapidapi.com/"
+          "imagen": "/screenshots/rapidapi_com_.webp"
         },
         {
           "nombre": "Postman API Network",
           "url": "https://www.postman.com/explore",
           "descripcion": "Directorio integrado en Postman para descubrir y probar APIs.",
-          "imagen": "https://api.apiflash.com/v1/urltoimage?access_key=76eeb757ae284a6eb3b6f1b4c8a99920&wait_until=page_loaded&url=https://www.postman.com/explore"
+          "imagen": "/screenshots/www_postman_com_explore.webp"
         }
       ]
     }
